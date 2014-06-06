@@ -1,0 +1,5 @@
+data:
+  children:
+    - subskill-1
+    - subskill-2
+  title: Get a job

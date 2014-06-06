@@ -1,0 +1,6 @@
+slug: subskill-2
+data:
+  children:
+    - atom-3
+    - atom-4
+  title: Comb your hair

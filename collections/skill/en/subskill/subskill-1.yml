@@ -1,0 +1,6 @@
+slug: subskill-1
+data:
+  children:
+    - atom-1
+    - atom-2
+  title: Put on a suit
