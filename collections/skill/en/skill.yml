@@ -1,4 +1,5 @@
 slug: skill
+locale: en
 data:
   children:
     - subskill-1

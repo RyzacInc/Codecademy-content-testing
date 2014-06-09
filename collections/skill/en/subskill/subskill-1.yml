@@ -1,4 +1,5 @@
 slug: subskill-1
+locale: en
 data:
   children:
     - atom-1
