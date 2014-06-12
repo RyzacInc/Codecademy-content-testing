@@ -1,0 +1,7 @@
+slug: subskill-2
+locale: en
+data:
+  children:
+    - atom-3
+    - atom-4
+  title: Peignez vos cheveux
