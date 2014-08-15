@@ -1,0 +1,7 @@
+slug: skill
+locale: fr
+data:
+  children:
+    - subskill-1
+    - subskill-2
+  title: Obtenir un emploi
