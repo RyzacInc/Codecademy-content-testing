@@ -5,7 +5,7 @@ schema: collection
 node_type: collection
 locale: en
 slug: skill
-title: Get a Job
+title: Get an Awesome Job
 description: Build something awesome. Get a job.
 meta:
   tags:
