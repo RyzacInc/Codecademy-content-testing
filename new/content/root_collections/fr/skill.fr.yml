@@ -1,0 +1,24 @@
+---
+type: content
+schema: root_collection
+---
+node_type: root_collection
+locale: fr
+slug: skill
+collection_slug: skill
+meta:
+  duration: 5
+  icon:
+    type: url
+    value: http://s3.amazonaws.com/codecademy-content/courses/ltp/img/make-a-website.svg
+  created_at: 0
+  updated_at: 0
+  tags:
+  - skill
+  - content
+  - testing
+landing:
+  overview:
+    description: Apprenez à code. Obtenir un emploi.
+  preview:
+    image_url: http://s3.amazonaws.com/codecademy-content/courses/ltp/img/airbnb-home-page.png
