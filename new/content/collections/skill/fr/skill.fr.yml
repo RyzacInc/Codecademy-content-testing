@@ -1,0 +1,16 @@
+---
+type: content
+schema: collection
+---
+node_type: collection
+locale: en
+slug: skill
+title: Obtenir un emploi
+description: Construire quelque chose de génial. Obtenir un emploi.
+meta:
+  tags:
+  - skill
+  - jobs
+children:
+- subskill-1
+- subskill-2

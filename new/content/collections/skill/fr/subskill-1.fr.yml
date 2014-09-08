@@ -1,0 +1,16 @@
+---
+type: content
+schema: collection
+---
+node_type: collection
+locale: en
+slug: subskill-1
+title: Mettez un costume
+description: Regardez chic.
+meta:
+  tags:
+  - suits
+  - beginner
+children:
+- exercise-1
+- exercise-2
