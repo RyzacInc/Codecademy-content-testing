@@ -1,0 +1,16 @@
+---
+type: content
+schema: collection
+---
+node_type: collection
+locale: en
+slug: subskill-2
+title: Peignez vos cheveux
+description: Regardez chic.
+meta:
+  tags:
+  - hair
+  - styling
+children:
+- exercise-3
+- exercise-4
