@@ -1,0 +1,16 @@
+---
+type: content
+schema: collection
+---
+node_type: collection
+locale: en
+slug: skill
+title: Get a Job
+description: Build something awesome. Get a job.
+meta:
+  tags:
+  - skill
+  - jobs
+children:
+- subskill-1
+- subskill-2
