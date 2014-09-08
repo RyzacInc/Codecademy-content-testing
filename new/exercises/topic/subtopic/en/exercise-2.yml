@@ -1,0 +1,20 @@
+---
+type: content
+schema: exercise
+---
+node_type: exercise
+locale: en
+slug: exercise-2
+meta:
+  author:
+    fullname: Alex Rozanski
+    username: alexrozanski
+  level: Beginner
+  topic: topic
+  subtopic: subtopic
+  tags:
+  - suits
+  - ties
+  - style
+title: Picking the Right Tie
+components: []
