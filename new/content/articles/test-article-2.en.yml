@@ -1,0 +1,15 @@
+---
+type: content
+schema: article
+---
+node_type: article
+locale: en
+slug: test-article-2
+icon: ruby
+head: 
+title: Test Article Content - 2
+date: "Apr 6, 2014"
+description: Testing article - 2 in content Service.
+body: |
+  Test - 2
+tags: ["ruby"]

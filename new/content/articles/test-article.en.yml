@@ -8,7 +8,7 @@ slug: test-article
 icon: ruby
 head: 
 title: Test Article Content
-date: "Apr 1, 2014"
+date: "Apr 6, 2014"
 description: Testing article in content Service.
 body: |
   Test
