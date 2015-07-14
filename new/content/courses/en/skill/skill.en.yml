@@ -1,0 +1,16 @@
+---
+type: content
+schema: course
+---
+node_type: course
+locale: en
+slug: skill
+title: Get a Job
+description: Build something awesome. Get a job.
+meta:
+  tags:
+  - skill
+  - jobs
+units:
+- subskill-1
+- subskill-2

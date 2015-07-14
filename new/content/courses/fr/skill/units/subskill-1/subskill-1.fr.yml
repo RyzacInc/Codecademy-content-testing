@@ -1,0 +1,15 @@
+---
+type: content
+schema: unit
+---
+node_type: unit
+locale: en
+slug: subskill-1
+title: Mettez un costume
+description: Regardez chic.
+meta:
+  tags:
+  - suits
+  - beginner
+lessons:
+- subskill-1

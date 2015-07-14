@@ -1,0 +1,16 @@
+---
+type: content
+schema: lesson
+---
+node_type: lesson
+locale: en
+slug: subskill-1
+title: Put on a suit
+description: Look classy.
+meta:
+  tags:
+  - suits
+  - beginner
+exercises:
+- exercise-1
+- exercise-2

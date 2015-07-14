@@ -1,0 +1,15 @@
+---
+type: content
+schema: unit
+---
+node_type: unit
+locale: en
+slug: subskill-2
+title: Comb your hair
+description: Look classier.
+meta:
+  tags:
+  - hair
+  - styling
+lessons:
+- subskill-2

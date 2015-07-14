@@ -1,0 +1,19 @@
+---
+type: content
+schema: exercise
+---
+node_type: exercise
+locale: fr
+slug: exercise-1
+meta:
+  author:
+    fullname: Alex Rozanski
+    username: alexrozanski
+  level: Beginner
+  topic: topic
+  subtopic: subtopic
+  tags:
+  - suits
+  - style
+title: Smokings
+components: []
