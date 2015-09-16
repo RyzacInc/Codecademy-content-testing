@@ -5,7 +5,7 @@ schema: article
 node_type: article
 locale: en
 slug: test-article
-icon: ruby
+type: ruby
 head: 
 title: Test Article Content
 date: "Apr 6, 2014"
