@@ -5,8 +5,8 @@ schema: article
 node_type: article
 locale: en
 slug: test-article-1
-icon: ruby
-head: 
+type: ruby
+head:
 title: Test Article Content
 date: "Apr 1, 2014"
 description: Testing article in content Service.
